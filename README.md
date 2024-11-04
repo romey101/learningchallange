@@ -1,15 +1,14 @@
- 🌍 Hello World: Marams Learning Challenge
+🌍 Hello World: Marams Learning Challenge.
 
 
- 📝 Project Description
+📝 Project Description
  - Hello World: Learning Challenge Our first individuL challange. We are suppoosed to mock the UI using swift IOS. And apply MVVM design pattern.
 
 
-Requirements :-
-
-SwiftUi
-- iOS 15.0 or later
-- Xcode 16.0 or later
+✅ Requirements :-
+- SwiftUi.
+- iOS 15.0 or later.
+- Xcode 16.0 or later.
 
 
 🛠 Features
@@ -18,7 +17,6 @@ SwiftUi
 -  update Goal: The user is supposed to update their goal.
 
 
-How To Use :-
-
+🧐 How To Use :-
 - Open the project in Xcode.
 - Run the app on a simulator or a physical device.
